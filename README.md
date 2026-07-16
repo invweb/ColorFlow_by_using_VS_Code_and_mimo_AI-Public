@@ -5,9 +5,9 @@ Puzzle game where you connect matching-colored dots by drawing paths on a grid. 
 ## Screenshots
 
 <div align="center">
-  <img src="screenshots/start_screen.png" width="300" alt="Start Screen">
-  <img src="screenshots/gameplay.png" width="300" alt="Gameplay">
-  <img src="screenshots/victory.png" width="300" alt="Victory">
+  <img src="screenshots/1.png" width="300" alt="Start Screen">
+  <img src="screenshots/2.png" width="300" alt="Gameplay">
+  <img src="screenshots/3.png" width="300" alt="Victory">
 </div>
 
 ## Features
